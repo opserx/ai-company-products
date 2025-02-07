@@ -1,2 +1,1 @@
-# ai-company-products
-A repository for a static website displaying AI company products
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
